@@ -1,0 +1,2 @@
+The dynamic mesh functionality in pimpleDyMFoam has been merged into pimpleFoam
+and the pimpleDyMFoam tutorials moved into the pimpleFoam tutorials directory
